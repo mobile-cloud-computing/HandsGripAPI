@@ -1,5 +1,4 @@
 # HandsGripAPI
-HandGripsAPI Client and Server
 Run the main.py file from Server.
 The server has access to the AI model for predicting strength.
 It receives POST request and accepts data in JSON format.
