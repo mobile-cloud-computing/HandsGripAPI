@@ -1,5 +1,5 @@
 # HandsGripAPI
-Run the main.py file from Server.
+Run the main.py file from Server. You need uvicorn webserver installed.
 The server has access to the AI model for predicting strength.
 It receives POST request and accepts data in JSON format.
 
