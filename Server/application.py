@@ -1,7 +1,7 @@
 import pickle
 import pandas as pd
 import json
-filename = "my_model.pickle"
+filename = "model.pkl"
 loaded_model = pickle.load(open(filename, "rb"))
 def JSON2PD(json_data):
     df = pd.DataFrame(json_data,index=['0'])
