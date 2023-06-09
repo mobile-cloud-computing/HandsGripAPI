@@ -19,6 +19,8 @@ json_payload = {
 }
 
 Light Value
+
 Gender  0 Female / 1 Male
+
 Size  handsize = length (cm) * breadth (cm), you can use a ruler to measure your handsize. length and breadth measures can be learned from online
 age
